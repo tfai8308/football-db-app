@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">FootballDB</string>
+
+    <string-array name = "team_spinner">
+        <item>Kansas City Chiefs</item>
+        <item>Tampa Bay Buccaneers</item>
+    </string-array>
+
+    <string-array name = "kansas_players">
+        <item>Patrick Mahomes</item>
+        <item>Clyde Edwards Helaire</item>
+        <item>Tyreek Hill</item>
+        <item>Travis Kelce</item>
+        <item>Eric Fisher</item>
+        <item>Nick Allegretti</item>
+        <item>Austin Reiter</item>
+        <item>Andrew Wylie</item>
+        <item>Mike Remmers</item>
+        <item>Tanoh Kpassagnon</item>
+        <item>Chris Jones</item>
+        <item>Derrick Nnadi</item>
+        <item>Frank Clark</item>
+        <item>Anthony Hitchens</item>
+        <item>Damien Wilson</item>
+        <item>Charvarius Ward</item>
+        <item>Bashaud Breeland</item>
+        <item>Daniel Sorensen</item>
+        <item>Tyrann Mathieu</item>
+        <item>Harrison Butker</item>
+        <item>Tommy Townsend</item>
+        <item>Mecole Hardman</item>
+        <item>Darrel Williams</item>
+        <item>LeVeon Bell</item>
+        <item>Sammy Watkins</item>
+        <item>Demarcus Robinson</item>
+        <item>Anthony Sherman</item>
+        <item>Martinas Rankin</item>
+        <item>Alex Okafor</item>
+        <item>Mike Pennel</item>
+        <item>Ben Niemann</item>
+        <item>Willie Gay</item>
+        <item>Rashad Fenton</item>
+        <item>Juan Thornhill</item>
+    </string-array>
+
+    <string-array name = "tampa_players">
+        <item>Tom Brady</item>
+        <item>Ronald Jones</item>
+        <item>Mike Evans</item>
+        <item>Chris Godwin</item>
+        <item>Rob Gronkowski</item>
+        <item>Donovan Smith</item>
+        <item>Ali Marpet</item>
+        <item>Ryan Jensen</item>
+        <item>Aaron Stinnie</item>
+        <item>Tristan Wirfs</item>
+        <item>Ndamukong Suh</item>
+        <item>Rakeem Nunez Roches</item>
+        <item>William Gholston</item>
+        <item>Jason Pierre-Paul</item>
+        <item>Devin White</item>
+        <item>Lavonte David</item>
+        <item>Shaquil Barrett</item>
+        <item>Carlton Davis</item>
+        <item>Jamel Dean</item>
+        <item>Jordan Whitehead</item>
+        <item>Antoine Winfield Jr.</item>
+        <item>Ryan Succop</item>
+        <item>Bradley Pinion</item>
+        <item>Jaydon Mickens</item>
+        <item>Leonard Fournette</item>
+        <item>Antonio Brown</item>
+        <item>Scott Miller</item>
+        <item>Tyler Johnson</item>
+        <item>Cameron Brate</item>
+        <item>Joe Haeg</item>
+        <item>Vita Vea</item>
+        <item>Sean Murphy Bunting</item>
+        <item>Mike Edwards</item>
+        <item>Steve McLendon</item>
+        <item>Anthony Nelson</item>
+        <item>Ross Cockrell</item>
+    </string-array>
+
+</resources>
